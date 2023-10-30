@@ -1,3 +1,3 @@
-![Screenshot 2023-10-30 232553](https://github.com/Rishu-ri/amazon-homepage-clone.github.io/assets/148881708/82c8bf03-cb35-4bf6-9df1-56c8434b9e6f)
-![Screenshot 2023-10-30 235447](https://github.com/Rishu-ri/amazon-homepage-clone.github.io/assets/148881708/c5a4736a-5098-4020-a97c-e434d761fda9)
-![Screenshot 2023-10-30 235511](https://github.com/Rishu-ri/amazon-homepage-clone.github.io/assets/148881708/1d7028fe-bcce-435b-8120-5ccae284dc13)
+![Screenshot 2023-10-30 232553](https://github.com/Rishu-ri/amazon-homepage-clone.github.io/assets/148881708/66f350bb-20bb-49b9-bd16-f7770979b376)
+![Screenshot 2023-10-30 235511](https://github.com/Rishu-ri/amazon-homepage-clone.github.io/assets/148881708/8ed051c7-0c13-4caa-b57d-5cbcb1e5357d)
+![Screenshot 2023-10-30 235447](https://github.com/Rishu-ri/amazon-homepage-clone.github.io/assets/148881708/8d553f42-19fa-4448-9d5b-5f1758641c3d)
